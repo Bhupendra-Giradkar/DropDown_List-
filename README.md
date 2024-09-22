@@ -1,4 +1,4 @@
-# DropDown API using React
+# DropDown Component using React
 
 This is simple project simple and easy project developed byusing react. Where user can choose options listed in dropdown and result will show in just above. 
 
